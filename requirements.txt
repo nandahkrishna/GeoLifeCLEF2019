@@ -6,4 +6,5 @@ keras
 tensorflow
 rasterio
 matplotlib
-
+jupyter
+jupyterlab
