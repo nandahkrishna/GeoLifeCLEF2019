@@ -6,3 +6,6 @@ Requirements can be installed by entering the following command in the Terminal:
 pip install -r requirements.txt
 ```
 We achieved a maximum Top30 score of 0.1342 and placed 3rd overall, with our top submission ranking 6th on the leaderboard. This was an XGBoost trained on Spatial Coordinates and Environmental Variable values.
+
+## Publication
+You can find our paper [here](https://ceur-ws.org/Vol-2380/paper_71.pdf) (CEUR-WS Vol. 2380) in the CLEF 2019 Working Notes.
